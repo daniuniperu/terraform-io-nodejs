@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"api_gateway","Source":"./api_gateway","Dir":"api_gateway"},{"Key":"dynamodb","Source":"./dynamodb","Dir":"dynamodb"},{"Key":"lambdas","Source":"./lambdas","Dir":"lambdas"},{"Key":"step_function","Source":"./step_function","Dir":"step_function"}]}
