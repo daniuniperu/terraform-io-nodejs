@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+
+# Dependency directories
+**/node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage and nyc output
+coverage/
+.nyc_output/
+
+# IDE / editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Ignore specific directories that might contain sensitive information or are not needed
+terraform/.terraform/

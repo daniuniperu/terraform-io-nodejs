@@ -1,0 +1,14 @@
+{
+  "name": "mock-payment",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "typescript": "^5.1.6"
+  }
+}

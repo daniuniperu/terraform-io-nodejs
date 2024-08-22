@@ -1,0 +1,21 @@
+{
+  "name": "execute_payments",
+  "version": "1.0.0",
+  "description": "Lambda function to execute payments",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "dependencies": {
+    "@nestjs/common": "^10.0.0",
+    "@nestjs/core": "^10.0.0",
+    "aws-sdk": "^2.1370.0",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.143",
+    "@types/node": "^20.2.5",
+    "typescript": "^5.1.6"
+  }
+}
